@@ -1,2 +1,2 @@
 # thinksmart
-Demonstration Only
+Demonstration Only by Anthony Crisostomo
